@@ -34,7 +34,7 @@ function App() {
   return (
     <ErrorBoundary>
       <ExpandAndCollapse />
-      <ReactDragNDrop />
+      {/* <ReactDragNDrop /> */}
       {/* <ShapeFlow/> */}
       {/* <AddButton/> */}
     </ErrorBoundary>
